@@ -30,7 +30,7 @@ public class Main {
         if (ambientacao == 2 && genero == 2)System.out.println("Gladiador");
         else System.out.println("aaaa");
 
-       */
+
 
 
 
