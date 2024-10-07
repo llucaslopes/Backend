@@ -1,0 +1,3 @@
+# Resposta a questão do Daniel Dalalama
+Uma solução de segurança usada em sistemas web seria a WAF (Web Application Firewall).
+Embora o WAF seja uma solução poderosa, ele não é completamente efetivo contra todos os tipos de ameaças, especialmente quando falamos de ataques mais sofisticados, como ataques de dia zero (Zero-day), que exploram vulnerabilidades ainda desconhecidas pelos desenvolvedores e pelos sistemas de defesa.
