@@ -1,4 +1,4 @@
-package com.example.gerador_jogador;
+package com.example.gerador_player;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

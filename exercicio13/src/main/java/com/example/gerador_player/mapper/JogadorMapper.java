@@ -1,7 +1,7 @@
-package com.example.gerador_jogador.mapper;
+package com.example.gerador_player.mapper;
 
-import com.example.gerador_jogador.dto.JogadorDTO;
-import com.example.gerador_jogador.model.Jogador;
+import com.example.gerador_player.dto.JogadorDTO;
+import com.example.gerador_player.model.Jogador;
 
 public class JogadorMapper {
     public static Jogador toEntity(JogadorDTO dto) {

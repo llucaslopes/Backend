@@ -1,9 +1,9 @@
-package com.example.gerador_jogador.controller;
+package com.example.gerador_player.controller;
 
-import com.example.gerador_jogador.dto.JogadorDTO;
-import com.example.gerador_jogador.mapper.JogadorMapper;
-import com.example.gerador_jogador.model.Jogador;
-import com.example.gerador_jogador.service.JogadorService;
+import com.example.gerador_player.dto.JogadorDTO;
+import com.example.gerador_player.mapper.JogadorMapper;
+import com.example.gerador_player.model.Jogador;
+import com.example.gerador_player.service.JogadorService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

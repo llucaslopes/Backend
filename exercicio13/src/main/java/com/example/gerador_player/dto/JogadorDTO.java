@@ -1,4 +1,4 @@
-package com.example.gerador_jogador.dto;
+package com.example.gerador_player.dto;
 
 import jakarta.validation.constraints.NotBlank;
 

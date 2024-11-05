@@ -1,7 +1,7 @@
-package com.example.gerador_jogador.service;
+package com.example.gerador_player.service;
 
-import com.example.gerador_jogador.model.Jogador;
-import com.example.gerador_jogador.repository.JogadorRepository;
+import com.example.gerador_player.model.Jogador;
+import com.example.gerador_player.repository.JogadorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

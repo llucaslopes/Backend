@@ -1,4 +1,4 @@
-package com.example.gerador_jogador.model;
+package com.example.gerador_player.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
